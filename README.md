@@ -1,2 +1,1 @@
-# homepage
-im trying so hard ok
+# kill me now
