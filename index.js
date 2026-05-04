@@ -1,6 +1,6 @@
 // dropdowns
 
-function guestbook() {
+function sidebar() {
   var x = document.getElementById("gb");
   if (x.style.display === "none") {
     x.style.display = "block";
